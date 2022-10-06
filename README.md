@@ -1,5 +1,4 @@
-# Study_Processing
+# Model_practice
 ## 연구 진행사항 정리
-1. 데이터 값에 nan값이 보임 제거해야할 필요성을느낌
-2. 좀더 많은 수를 크롤링 후 진행해야할 필요성이 보임 (이 작업은 나중에)
+1. ContrastiveLoss를 이용한 연습 [링크]()
 ---
